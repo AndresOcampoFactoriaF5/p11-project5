@@ -1,0 +1,7 @@
+ .divBox{
+    display: flex;
+    justify-content: center;
+    width: 259px;
+    height: 286;
+    background: gray;
+}

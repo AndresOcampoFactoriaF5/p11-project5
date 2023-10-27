@@ -1,0 +1,15 @@
+a {
+    text-decoration: none;
+    border: 1px solid #fff;
+    font-size: 16px;
+    color: #001018;
+    font-weight: 450;
+    padding: 12px 16px;
+}
+
+a:hover {
+    color: #0082C3;
+    border-bottom: 1px solid #0082C3;
+    transition: border-bottom 0.3s;
+    cursor: pointer;
+}
